@@ -1,4 +1,4 @@
-
+﻿
 
 # GassistPi -- Google Assistant for all Raspberry Pi Boards  
 *******************************************************************************************************************************
@@ -48,7 +48,7 @@ https://github.com/shivasiddharth/GassistPi/blob/update-script/GassistPi-Update-
 1. Open the terminal and execute the following  
 
 ```
-git clone https://github.com/roboticsclubvbit/GassistPi    
+git clone https://github.com/SanSahInnovations/SanSah-AI    
 ```
 
 *************************************************  
